@@ -2,7 +2,7 @@
 name: Enhancement request
 about: 'Suggest an idea '
 title: ''
-labels: ''
+labels: A - Enhancement
 assignees: ''
 
 ---
