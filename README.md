@@ -10,3 +10,6 @@ Repo for feedback and issues during QuickCapture testing events.
 
 
 ## QuickCapture mobile app
+1. Log in to QuickCapture Early Adopter Community https://earlyadopter.esri.com/project/home.html?cap=9c6a1e4687c34c7fb5c6f8f4e0bc2df3
+2. At Project Resources side menu, click Mobile App Beta Builds.
+3. Download the corresponding beta build according to your testing device and platfrom.  
